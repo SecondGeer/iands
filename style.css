@@ -1,0 +1,22 @@
+* {
+    background-image: linear-gradient(to left, lightblue, white);
+}
+
+
+.qa {
+    margin: -1px 0 0;
+}
+
+.qa {
+    width: 50%;
+    position: relative;
+}
+
+.citation {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
